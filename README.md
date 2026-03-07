@@ -1,6 +1,6 @@
 ## 안녕하세요
 
-[@b_angs_]([http://www.google.co.kr](https://www.instagram.com/b_angs_/))
+insta: [@b_angs_](https://www.instagram.com/b_angs_/)
 
 [![bangs5282](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangs5282)](https://solved.ac/bangs5282)
 
