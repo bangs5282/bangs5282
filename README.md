@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준계정)](https://solved.ac/bangs5282)
+
 <!--
 **bangs5282/bangs5282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
