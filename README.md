@@ -1,4 +1,4 @@
-## 안녕하세요
+### 안녕하세요
 
 <!--
 **bangs5282/bangs5282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
